@@ -51,7 +51,7 @@ const Footer = () => {
                         </a>
                     </li>
                 </ul>
-                <h5 className="text-white font-initial text-sm">&copy; 2022 - John Doe. All Rights Reserved.</h5>
+                <h5 className="text-white font-initial text-sm">&copy; 2022 - Aylin Morales. All Rights Reserved.</h5>
             </div>
             <div className="py-8 pt-0 px-2">
                 <h5 className="text-white text-sm text-center leading-6">
